@@ -1,4 +1,4 @@
-          👋 ###Hi there  I am AdibaBabaeva
+          👋 Hi there  I am AdibaBabaeva
  
 - 👀 I’m interested on Python, JS, SQl, QA 
 - 🌱 I’m currently learning QA Automation
